@@ -1,0 +1,29 @@
+user_id,name,username,password,phone,dob,address,uid,role
+1,Theresa Robinson,customer1,hashed_password,5476109658,1998-08-19,"473 Barbara Throughway, Meaganchester, OR 30496",776174627523,customer
+2,Cassandra Henderson,customer2,hashed_password,3521157036,1990-09-19,"USCGC Taylor, FPO AA 79021",486010412196,customer
+3,Justin Reese,customer3,hashed_password,5962505987,2005-06-27,"97576 Garcia Roads Suite 656, Bradleyfort, IN 18218",565163405891,customer
+4,Christine Moore,customer4,hashed_password,3683616936,1999-09-03,"75184 Alexis Cliffs Suite 602, North Paulfort, WV 44614",560450924954,customer
+5,Martha Shepherd,customer5,hashed_password,5402930327,1964-08-14,"6113 Brown Crossroad Apt. 176, Stephensonville, NH 74062",055446058010,customer
+6,Mr. Arthur Alvarado Jr.,customer6,hashed_password,9706601979,1979-03-17,"06352 Ray Fields Suite 161, Thomasbury, MO 08886",869968837874,customer
+7,Troy Watts,customer7,hashed_password,5277405736,1968-11-21,"Unit 5460 Box 4420, DPO AP 97416",143526593183,customer
+8,Samuel Black,customer8,hashed_password,3547475600,1987-05-04,"PSC 1761, Box 1377, APO AP 12401",180309210884,customer
+9,Andre Carter,customer9,hashed_password,8399956549,1967-08-14,"PSC 6093, Box 1520, APO AA 93047",257388605596,customer
+10,Kimberly Davis,customer10,hashed_password,9287482798,1981-01-16,"6288 Heather Valley, South Marioshire, IN 66414",155746099313,customer
+11,Tara Walters,customer11,hashed_password,4917989726,1968-09-28,"187 Christopher Drive Apt. 080, West Brooke, HI 45806",085678595787,customer
+12,Tyler Jones,customer12,hashed_password,0491267911,1967-02-18,"8196 Anna Mission, Nicholasburgh, AL 22351",010442747608,customer
+13,Anthony Taylor,customer13,hashed_password,7313200738,1999-01-27,"5782 Daniel Port, West Christopher, NM 21630",599184097326,customer
+14,Sheila Sanders,customer14,hashed_password,8911896204,1991-12-08,"PSC 8173, Box 0202, APO AE 80586",268540433533,customer
+15,Maria Williams,customer15,hashed_password,8196530966,1992-08-18,"08817 Maddox Drive, Lake Kevin, NC 84470",724170301345,customer
+16,Ashley Villa,customer16,hashed_password,9356288565,1975-07-14,"32732 Walker Springs, South Brianaport, WA 76205",433962100426,customer
+17,Rick Smith,customer17,hashed_password,3426766167,1985-11-13,"575 Nguyen Crest, Nicholasstad, KY 12751",881825926677,customer
+18,Larry Walker,customer18,hashed_password,9057557442,1975-07-02,"964 Matthew Hollow Suite 438, West Josephshire, FL 75154",544664792111,customer
+19,Donna Moran,customer19,hashed_password,1239801035,1974-06-04,"07117 Walter Orchard, South Dennis, WV 36342",931711754677,customer
+20,Bonnie Martinez,customer20,hashed_password,1795463686,2000-05-04,"4108 Brianna Ways, Annview, DC 92797",289178265558,customer
+21,David Lane,customer21,hashed_password,3059774686,1979-02-09,"48863 White Glen, Crawfordfort, WY 52079",728035122659,customer
+22,Rebecca Munoz,customer22,hashed_password,6596127952,1971-05-28,"776 Courtney Ville, East Robin, PA 02155",313455081436,customer
+23,Charles Henry,customer23,hashed_password,9911824643,2005-06-02,"695 Gibson Stravenue, North Andrew, CO 57539",936991877871,customer
+24,Dorothy Fisher,customer24,hashed_password,6538582363,1975-01-23,"66973 Melissa Shores, Lake Elizabeth, AZ 22567",069695437780,customer
+25,Jenna Hawkins,customer25,hashed_password,6655324204,2001-05-02,"7685 Jones Groves Suite 169, Lindseyland, WV 10382",663487427093,customer
+26,Joseph Henry,teller26,hashed_password,0652713122,1993-10-15,"0525 Jeffrey Run, West Joseph, NJ 63705",511935586542,teller
+27,Robert Burke,teller27,hashed_password,1384721650,1974-12-21,"095 Amanda Hill, East Raven, IN 51398",652469847693,teller
+28,Mary Hicks,teller28,hashed_password,1018750342,1981-04-10,"668 Brown Expressway, Sharonmouth, WI 37979",308108386004,teller
