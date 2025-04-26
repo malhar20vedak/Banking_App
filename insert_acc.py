@@ -5,12 +5,12 @@ import csv
 db_config = {
     'host': 'localhost',
     'user': 'root',
-    'password': 'Aman@6006',
-    'database': 'bank_nndb'
+    'password': 'your_password_here',
+    'database': 'your_database_name'
 }
 
 # CSV file path
-csv_file_path = r"C:\Users\Aman Kumar\Downloads\accounts_custom.csv"  # Update path if needed
+csv_file_path = r"relevant_file_path"  # Update path if needed
 
 try:
     # Connect to MySQL
