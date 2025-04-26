@@ -13,22 +13,13 @@ from decimal import Decimal
 st.set_page_config(page_title="SmartBank", page_icon="🏦", layout="wide")
 
 
-# def get_db_connection():
-#     return mysql.connector.connect(
-#         host='localhost',
-#         user='root',            # Change this
-#         password='Aman@6006',  # Change this
-#         database='bank_ndb',
-#         autocommit=True
-#     )
-
 db_pool = pooling.MySQLConnectionPool(
     pool_name="mypool",
     pool_size=5,
     host="localhost",
     user="root",
-    password="Aman@6006",
-    database="bank_nndb"
+    password="your_password_here",
+    database="name_of_your_database"
 )
 
 def get_db_connection():
