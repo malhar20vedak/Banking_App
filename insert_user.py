@@ -7,8 +7,8 @@ def get_db_connection():
     return mysql.connector.connect(
         host="localhost",
         user="root",  # Your MySQL username
-        password="Aman@6006",  # Your MySQL password
-        database="bank_nndb"
+        password="",  # Your MySQL password
+        database=""   # Your database name
     )
 
 # Read CSV and insert users into the database
@@ -45,5 +45,5 @@ def insert_users_from_csv(csv_file_path):
     conn.close()
 
 # Provide the path to your CSV file
-csv_file_path = r"C:\Users\Aman Kumar\Downloads\Users_Data_Cleaned.csv"  # Make sure this path is correct
+csv_file_path = r""  # Make sure this path is correct
 insert_users_from_csv(csv_file_path)
